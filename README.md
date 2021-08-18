@@ -25,7 +25,11 @@
    <img align="center" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    <img align="center" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-
+##
+<div align="center">
+  ![Snake animation](https://github.com/EduardoRezes/EduardoRezes/blog/output/github-contribution-grid-snake.svg)
+</div>
+ 
 ##
 ### Meus Contatos
 <div style="display: inline_block"><br>
