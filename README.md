@@ -28,16 +28,16 @@
   
 ##
 <div align="center">
-  ![Snake animation](https://github.com/EduardoRezes/EduardoRezes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 ##
   
 ### Meus Contatos
 <div style="display: inline_block"><br>
+  <a href = "mailto:contatoeduardorezes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a href="https://t.me/EduardoRezes" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eduardo-rezes-a11619125/" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.messenger.com/t/EduardoRezes" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
   <a href="" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
