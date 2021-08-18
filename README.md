@@ -11,9 +11,8 @@
     <img align="center" height="130ms" src="https://github-readme-stats.vercel.app/api?username=EduardoRezes&count_private=true&hide=stars,contribs&show_icons=true&theme=dark"/>
     <img align="center" height="130ms" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRezes&layout=compact&theme=dark)](https://github.com/EduardoRezes/github-readme-stats"/>
 </div>
-
-<!-- ![Anurag's GitHub stats](https://starchart.cc/EduardoRezes/{repo}.svg) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoRezes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+    
+  ![Snake animation](https://github.com/EduardoRezes/EduardoRezes/blob/output/github-contribution-grid-snake.svg)
 
 ##
 ### Minhas Skills
@@ -26,15 +25,10 @@
    <img align="center" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
   
-##
-  
-  ![Snake animation](https://github.com/EduardoRezes/EduardoRezes/blob/output/github-contribution-grid-snake.svg)
-  
-##
-  
+## 
 ### Meus Contatos
 <div style="display: inline_block"><br>
-  <a href = "mailto:contatoeduardorezes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatoeduardorezes@gmail.com" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a href="https://t.me/EduardoRezes" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eduardo-rezes-a11619125/" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
