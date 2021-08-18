@@ -1,10 +1,17 @@
 # Ola sou Eduardo 👋
 
+<div>
+  <p align="flex-start"> 
+    <h2>Sobre mim!</h2>
+    <h4>Oi, me chamo Eduardo, sou um desenvolvedor web apaixonado por este mundo da tecnologia, onde aplico minhas ideias e torno elas em realidade. Sou extremamente organizado, tomando muito cuidado para deixar um codigo limpo e legivel, tentando deixa-lo o mais claro possível. Sou musico e meu instrumento é a bateria.</h4>
+  </p>
+</div>
+<div style="display: inline_block">
+    <h5>Atualmente trabalho na Empresa Ibijus como Desenvolvedor Junior direcionado a QA.</h5>
+    <h5>Estou cursando TADAS - Tecnologia em Analise e Desenvolvimento de Sistemas no Instituto Federal do Paraná.</h5>
+<!--     <img src="/code.gif" width="300ms" height="200ms" align="right"/> -->
+</div>
 
-### Sobre mim!
-##### Oi, me chamo Eduardo, sou um desenvolvedor web apaixonado por este mundo da tecnologia, onde aplico minhas ideias e torno elas em realidade. Sou extremamente organizado, tomando muito cuidado para deixar um codigo limpo e legivel, tentando deixa-lo o mais claro possível. Sou musico e meu instrumento é a bateria.
-##### Atualmente trabalho na Empresa Ibijus como Desenvolvedor Junior direcionado a QA.
-##### Estou cursando TADAS - Tecnologia em Analise e Desenvolvimento de Sistemas no Instituto Federal do Paraná.
 ##
 <div>
   <a href="https://beacons.ai/EduardoRezes">
