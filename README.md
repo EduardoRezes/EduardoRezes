@@ -7,8 +7,8 @@
 ##
 <div>
   <a href="https://beacons.ai/EduardoRezes">
-    <img align="center" height="170ms" src="https://github-readme-stats.vercel.app/api?username=EduardoRezes&count_private=true&hide=stars,contribs&show_icons=true&theme=dark"/>
-    <img align="center" height="170ms" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRezes&layout=compact&theme=dark)](https://github.com/EduardoRezes/github-readme-stats"/>
+    <img align="center" height="100ms" src="https://github-readme-stats.vercel.app/api?username=EduardoRezes&count_private=true&hide=stars,contribs&show_icons=true&theme=dark"/>
+    <img align="center" height="100ms" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRezes&layout=compact&theme=dark)](https://github.com/EduardoRezes/github-readme-stats"/>
 </div>
 
 <!-- ![Anurag's GitHub stats](https://starchart.cc/EduardoRezes/{repo}.svg) -->
