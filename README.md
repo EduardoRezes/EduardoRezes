@@ -6,9 +6,14 @@
     <h4>Oi, me chamo Eduardo, sou um desenvolvedor web apaixonado por este mundo da tecnologia, onde aplico minhas ideias e torno elas em realidade. Sou extremamente organizado, tomando muito cuidado para deixar um codigo limpo e legivel, tentando deixa-lo o mais claro possível. Sou musico e meu instrumento é a bateria.</h4>
   </p>
 </div>
+
 <div style="display: inline_block">
-    <h5>Atualmente trabalho na Empresa Ibijus como Desenvolvedor Junior direcionado a QA.</h5>
-    <h5>Estou cursando TADAS - Tecnologia em Analise e Desenvolvimento de Sistemas no Instituto Federal do Paraná.</h5>
+    <h3> Exepriências Profissionais: </h3>
+    <h5>Atualmente trabalho no <a href = "https://www.pti.org.br">Parque Tecnologico de Itaipu</a>  como Tecnico I, atuando no Laboratório AS.DT.</h5>
+    <h5>Trabalhei na Empresa <a href = "https://www.ibijus.com">Ibijus-Instituto Brasileiro de Direito</a>  como Desenvolvedor Junior direcionado a QA.</h5>
+    <h5>Trabalhei na Empresa <a href = "https://intelltech.com.br/language/pt/inicio/">IntellTech</a> como Tecnico em Qualidade Junior III.</h5> 
+    <h3> Graduação: </h3>
+    <h5>Estou cursando TADAS - Tecnologia em Analise e Desenvolvimento de Sistemas no <a href="https://foz.ifpr.edu.br">Instituto Federal do Paraná</a>.</h5> 
 <!--     <img src="/code.gif" width="300ms" height="200ms" align="right"/> -->
 </div>
 
@@ -29,7 +34,6 @@
    <img align="center" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img align="center" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-   <img align="center" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
   
 ## 
