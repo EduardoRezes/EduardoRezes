@@ -3,7 +3,7 @@
 <div>
   <p align="flex-start"> 
     <h2>Sobre mim!</h2>
-    <h4>Oi, me chamo Eduardo, sou um desenvolvedor web apaixonado por este mundo da tecnologia, onde aplico minhas ideias e torno elas em realidade. Sou extremamente organizado, tomando muito cuidado para deixar um codigo limpo e legivel, tentando deixa-lo o mais claro possível. Sou musico e meu instrumento é a bateria.</h4>
+    <h4>Ola, me chamo Eduardo, sou um desenvolvedor web apaixonado por este mundo da tecnologia, onde aplico minhas ideias e torno elas em realidade. Sou extremamente organizado, tomando muito cuidado para deixar um codigo limpo e legivel, tentando deixa-lo o mais claro possível. Sou musico e meu instrumento é a bateria.</h4>
   </p>
 </div>
 
@@ -27,22 +27,32 @@
   ![Snake animation](https://github.com/EduardoRezes/EduardoRezes/blob/output/github-contribution-grid-snake.svg)
 
 ##
-### Minhas Skills
-<div>
-   <img align="center" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-   <img align="center" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   <img align="center" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
+### Frameworks
+  ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+  ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+  ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)  
+  
+##
+### Languages 
+  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+  ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+  ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   
 ## 
 ### Meus Contatos
-<div style="display: inline_block"><br>
-  <a href = "mailto:contatoeduardorezes@gmail.com" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <a href="https://t.me/EduardoRezes" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/eduardo-rezes-a11619125/" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.messenger.com/t/EduardoRezes" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
-  <a href="" target="_blank"><img align="center" height="30" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
+  ![https://gitlab.com/EduardoRezes](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![mailto:contatoeduardorezes@gmail.com](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)
+  ![https://t.me/EduardoRezes](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  ![https://www.linkedin.com/in/eduardo-rezes-a11619125/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![https://www.messenger.com/t/EduardoRezes](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
+  ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+  ![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+ 
