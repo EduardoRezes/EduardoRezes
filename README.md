@@ -13,7 +13,7 @@
     <h5>Trabalhei na Empresa <a href = "https://www.ibijus.com">Ibijus-Instituto Brasileiro de Direito</a>  como Desenvolvedor Junior direcionado a QA.</h5>
     <h5>Trabalhei na Empresa <a href = "https://intelltech.com.br/language/pt/inicio/">IntellTech</a> como Tecnico em Qualidade Junior III.</h5> 
     <h3> Graduação: </h3>
-    <h5>Estou cursando TADAS - Tecnologia em Analise e Desenvolvimento de Sistemas no <a href="https://foz.ifpr.edu.br">Instituto Federal do Paraná</a>.</h5> 
+    <h5>Estou cursando TADS - Tecnologia em Analise e Desenvolvimento de Sistemas no <a href="https://foz.ifpr.edu.br">Instituto Federal do Paraná</a>.</h5> 
 <!--     <img src="/code.gif" width="300ms" height="200ms" align="right"/> -->
 </div>
 
