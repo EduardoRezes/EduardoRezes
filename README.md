@@ -48,7 +48,7 @@
   
 ## 
 ### Meus Contatos
-  <a href="https://gitlab.com/EduardoRezes" target="_blank">![https://gitlab.com/EduardoRezes](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) </a>
+  <a href="https://gitlab.com/EduardoRezes">(https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) </a>
   ![mailto:contatoeduardorezes@gmail.com](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)
   ![https://t.me/EduardoRezes](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   ![https://www.linkedin.com/in/eduardo-rezes-a11619125/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
