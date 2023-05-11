@@ -9,7 +9,7 @@
 
 <div style="display: inline_block">
     <h3> Exepriências Profissionais: </h3>
-    <h5>Atualmente trabalho no <a href = "https://www.pti.org.br">Parque Tecnologico de Itaipu</a>  como Tecnico I, atuando no Laboratório AS.DT.</h5>
+    <h5>Trabalhei na Empresa <a href = "https://www.pti.org.br">Parque Tecnologico de Itaipu</a>  como Tecnico I, atuando no Laboratório AS.DT.</h5>
     <h5>Trabalhei na Empresa <a href = "https://www.ibijus.com">Ibijus-Instituto Brasileiro de Direito</a>  como Desenvolvedor Junior direcionado a QA.</h5>
     <h5>Trabalhei na Empresa <a href = "https://intelltech.com.br/language/pt/inicio/">IntellTech</a> como Tecnico em Qualidade Junior III.</h5> 
     <h3> Graduação: </h3>
