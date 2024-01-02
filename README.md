@@ -3,7 +3,11 @@
 <div>
   <p align="flex-start"> 
     <h2>Sobre mim!</h2>
-    <h4>Ola, me chamo Eduardo, sou um desenvolvedor web apaixonado por este mundo da tecnologia, onde aplico minhas ideias e torno elas em realidade. Sou extremamente organizado, tomando muito cuidado para deixar um codigo limpo e legivel, tentando deixa-lo o mais claro possível. Sou musico e meu instrumento é a bateria.</h4>
+    <h4>Olá, meu nome é Eduardo. Possuo experiência como desenvolvedor de software em diversos projetos, onde mergulhei no universo da programação tanto no âmbito corporativo quanto acadêmico. 
+    Durante essa jornada, explorei diversas áreas da engenharia de software, e foi nesse percurso que descobri minha paixão pela Qualidade de Software (QA), que se tornou minha habilidade principal. 
+    Ao longo dos anos, concentrei meus esforços em implementar uma variedade de testes, como automatizados, exploratórios, de carga e regressão, contribuindo significativamente para o sucesso de projetos de diferentes complexidades. 
+    Minha abordagem é marcada pela extrema organização, refletida em códigos limpos e legíveis, sempre buscando clareza.
+    Além disso, sou músico, sendo a bateria o meu instrumento de escolha, o que demonstra minha paixão por disciplina e ritmo não apenas na música, mas também na abordagem ao desenvolvimento de software.</h4>
   </p>
 </div>
 
