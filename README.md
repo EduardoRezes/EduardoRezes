@@ -13,7 +13,7 @@
     <h5>Trabalhei na Empresa <a href = "https://www.liveoficial.com.br">Live!</a>  como Desenvolvedor Junior</h5>
     <h5>Trabalhei na Empresa <a href = "https://www.pti.org.br">Parque Tecnologico de Itaipu</a>  como Tecnico I, atuando no Laboratório AS.DT.</h5>
     <h5>Trabalhei na Empresa <a href = "https://www.ibijus.com">Ibijus-Instituto Brasileiro de Direito</a>  como Desenvolvedor Junior direcionado a QA.</h5>
-    <h5>Trabalhei na Empresa <a href = "https://intelltech.com.br/language/pt/inicio/">IntellTech</a> como Tecnico em Qualidade Junior III.</h5> 
+    <h5>Trabalhei na Empresa <a href = "https://intelltech.com">IntellTech</a> como Tecnico em Qualidade Junior III.</h5> 
     <h3> Graduação: </h3>
     <h5>Estou cursando TADS - Tecnologia em Analise e Desenvolvimento de Sistemas no <a href="https://foz.ifpr.edu.br">Instituto Federal do Paraná</a>.</h5> 
 <!--     <img src="/code.gif" width="300ms" height="200ms" align="right"/> -->
