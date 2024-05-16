@@ -13,7 +13,7 @@
 
 <div style="display: inline_block">
     <h3> Exepriências Profissionais: </h3>
-    <h5>Atualmente trabalhando na <a href = "https://www.clinicorp.com/" target="_blank">Clinicorp</a>  como Analista de Qualidade</h5>
+    <h5>Atualmente trabalhando na <a href="https://www.clinicorp.com/" target="_blank">Clinicorp</a> como Analista de Qualidade</h5>
     <h5>Trabalhei na Empresa <a href = "https://www.liveoficial.com.br">Live!</a>  como Desenvolvedor Junior</h5>
     <h5>Trabalhei na Empresa <a href = "https://www.pti.org.br">Parque Tecnologico de Itaipu</a>  como Tecnico I, atuando no Laboratório AS.DT.</h5>
     <h5>Trabalhei na Empresa <a href = "https://www.ibijus.com">Ibijus-Instituto Brasileiro de Direito</a>  como Desenvolvedor Junior direcionado a QA.</h5>
